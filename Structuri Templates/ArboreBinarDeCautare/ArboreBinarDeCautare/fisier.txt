@@ -1,0 +1,6 @@
+5
+12 carte1 1.2
+23 carte2 2.2
+5 carte3 3.2
+7 carte2 2.2
+32 carte3 3.2

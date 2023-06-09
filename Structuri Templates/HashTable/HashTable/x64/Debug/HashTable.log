@@ -1,0 +1,3 @@
+﻿  HashTable.c
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\HashTable\HashTable\HashTable.c(152): warning C4715: 'cautare_nume': not all control paths return a value
+  HashTable.vcxproj -> C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\HashTable\x64\Debug\HashTable.exe

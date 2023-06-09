@@ -1,0 +1,9 @@
+﻿  ArboreAVL.c
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(107,51): warning C4047: '==': 'Nod *' differs in levels of indirection from 'int'
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(107,51): warning C4047: 'function': 'Nod *' differs in levels of indirection from 'int'
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(107,47): warning C4024: 'calculDezechilibru': different types for formal and actual parameter 1
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(113,50): warning C4047: '==': 'Nod *' differs in levels of indirection from 'int'
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(113,50): warning C4047: 'function': 'Nod *' differs in levels of indirection from 'int'
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(113,46): warning C4024: 'calculDezechilibru': different types for formal and actual parameter 1
+C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\ArboreAVL\ArboreAVL.c(197,8): warning C4101: 'c': unreferenced local variable
+  ArboreAVL.vcxproj -> C:\Users\bianca\Desktop\SDD Examen\Structuri Templates\ArboreAVL\x64\Debug\ArboreAVL.exe
